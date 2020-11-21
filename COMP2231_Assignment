@@ -1,0 +1,6 @@
+Thompson River University COMP 2231 Course 
+- Assignment 5 HashTable 
+Implement a dynamically resizable hash table to store people’s names and Social Security numbers. 
+Use the extraction method with division using the last four digits of the Social Security number. 
+Use an initial table size of 31 and a load factor of 0.80. 
+Use open addressing with double hashing using an extraction method on the first three digits of the Social Security number.
